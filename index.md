@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+The tales of Days: Welcome to my blog!
 ---
